@@ -4,4 +4,4 @@
 - Pac-man (a clone of the classic game)
 - Snake
   
-![Screenshot of a Done project.](https://github.com/speedskater1610/Arduino-game-boy/image.jpg)
+![Screenshot of a Done project.](https://github.com/speedskater1610/Arduino-game-boy/blob/main/image.jpg)
